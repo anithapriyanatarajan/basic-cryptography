@@ -21,7 +21,7 @@ on:
         type: string
 
 env:
-  CBOMKIT_API_URL: ${{ inputs.scan_url || 'https://ba4ac9811eb8.ngrok-free.app' }}
+  CBOMKIT_API_URL: ${{ inputs.scan_url || 'https://cbf35f7f496f.ngrok-free.app' }}
 
 jobs:
   cbom-scan:
