@@ -1,5 +1,5 @@
 # 🔐 Basic Cryptography Demo Application
-
+# DEMO-EDIT
 A comprehensive Java application demonstrating various cryptographic concepts including symmetric encryption, key derivation, and Diffie-Hellman key exchange.
 
 ## 🌟 Features
